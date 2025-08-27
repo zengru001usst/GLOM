@@ -1,0 +1,13 @@
+PIL
+absl
+cv2
+einops==0.6.1
+matplotlib==3.7.1
+numpy==1.24.1
+pkg_resources
+pl_bolts
+pytorch_lightning==1.9.5
+stdlib_list
+torch==2.0.0+cu117
+torchmetrics==1.0.0rc0
+torchvision==0.15.1+cu117
